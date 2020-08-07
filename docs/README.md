@@ -1,4 +1,5 @@
-# WIP
+# Completed Circle CI tutorial
+https://bransonperkins.github.io/continuous-integration-circle/
 
 [Google](http://google.com)
 
